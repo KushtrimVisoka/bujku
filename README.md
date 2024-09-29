@@ -79,10 +79,11 @@ While the dataset provides a comprehensive view of 'Bujku,' certain limitations 
 Future enhancements may include adding metadata for each article, improving segmentation accuracy with advanced models, and incorporating any newly discovered issues.
 
 ## Citation
-
+```
 @misc{visoka2024digitalarchive,
     author = {Kushtrim Visoka},
     title = {Creating a Digital Archive: Segmenting and Transcribing Articles from the Daily Newspaper ‘Bujku’},
     year = {2024},
     howpublished = {\url{https://github.com/KushtrimVisoka/bujku}},
 }
+```
